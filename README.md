@@ -21,10 +21,10 @@ The order of appearance in the text is as follows.
 
 * Chapter 2
 
-	- [string_format.py][#string_formatpy]
-	- [string_percent.py][#string_percentpy]
-	- [for_loop.py][#for_looppy]
-	- [while_loop.py][#while_looppy]
+	- [string_format.py](#string_formatpy)
+	- [string_percent.py](#string_percentpy)
+	- [for_loop.py](#for_looppy)
+	- [while_loop.py](#while_looppy)
 
 * Chapter 3
 
