@@ -1,6 +1,120 @@
+TODO:
+
+- bar3d.py
+- data_dictionary.py
+- data_images.py
+- first_passage.py
+- ivp_comparison.py
+- nd_random_walks.py
+- regression.py
+- subplot.py
+- subplots.py
+
+------------------------------------------------------------------------- 
+
+These are code fragments for _A Student's Guide to Python for Physical
+Modeling_ by Jesse M. Kinder and Philip Nelson.
+
 Use of these code fragments is subject to the terms of LICENSE.txt.
 
-CONTENTS:
+This file provides a brief description of each fragment.  More details
+can be found in the comments of the individual scripts and modules.
+
+------------------------------------------------------------------------- 
+
+CONTENTS
+--------
+
+The order of appearance in the text is as follows.
+
+* Chapter 2
+
+	- string_format.py
+	- string_percent.py
+	- for_loop.py
+	- while_loop.py
+
+* Chapter 3
+
+	- vectorize.py
+	- projectile.py
+	- branching.py
+	- nesting.py
+
+* Chapter 4
+
+	- import_text.py
+	- save_load.py
+	- print_write.py
+	- simple_plot.py
+	- graph_modifications.py
+	- line3d.py
+	- subplot.py
+	- subplots.py
+
+* Chapter 6
+
+	- measurements.py
+	- rotate.py
+	- average.py
+	- histogram.py
+	- contour.py
+	- matrix_inversion.py
+	- quadrature.py
+	- simple_oscillator.py
+	- solve_ode.py
+	- parametric_oscillator.py
+	- ivp_comparison.py
+	- vortex.py
+	- gradient.py
+	- streamlines.py
+
+* Chapter 8
+
+	- data_images.py
+	- walker.py
+	- waves.py
+
+* Chapter 9
+
+	- convolution.py
+
+* Chapter 10
+
+	- first_passage.py
+	- data_dictionary.py
+	- nd_random_walks.py
+
+* Epilogue
+
+	- surprise.py
+
+* Appendix F
+
+	- scope.py
+	- name_collision.py
+
+* Your Turn
+
+	- fancy_plot.py
+	- legend.py
+	- measurements.py
+	- random_walk.py
+	- surface.py
+	- regression.py
+
+* Additional
+
+	- bar3d.py
+	- html_movie.py 
+	- perrin.py
+	- quiver.py
+	- shading.py
+	- sympy_examples.py
+
+DESCRIPTIONS
+------------
+
 ------------------------------------------------------------------------- 
 string_format.py
 ------------------------------------------------------------------------- 
@@ -16,8 +130,9 @@ for_loop.py
 ------------------------------------------------------------------------- 
 Use a for loop to generate multiple solutions to the quadratic equation.
 
-This script illustrates the funamental form of a for loop.  For alternate
-solutions to the same problem, see while_loop.py and vectorize.py.
+This script illustrates the funamental form of a for loop.  For
+alternate solutions to the same problem, see while_loop.py and
+vectorize.py.
 
 ------------------------------------------------------------------------- 
 while_loop.py
