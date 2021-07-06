@@ -28,80 +28,82 @@ The order of appearance in the text is as follows.
 
 * Chapter 3
 
-	- vectorize.py
-	- projectile.py
-	- branching.py
-	- nesting.py
+	- [vectorize.py](#vectorizepy)
+	- [projectile.py](#projectilepy)
+	- [branching.py](#branchingpy)
+	- [nesting.py](#nestingpy)
 
 * Chapter 4
 
-	- import_text.py
-	- save_load.py
-	- print_write.py
-	- simple_plot.py
-	- graph_modifications.py
-	- line3d.py
-	- subplot.py
-	- subplots.py
+	- [import_text.py](#import_textpy)
+	- [save_load.py](#save_loadpy)
+	- [print_write.py](#print_writepy)
+	- [simple_plot.py](#simple_plotpy)
+	- [graph_modifications.py](#graph_modificationspy)
+	- [line3d.py](#line3dpy)
+	- [subplot.py](#subplotpy)
+	- [subplots.py](#subplotspy)
 
 * Chapter 6
 
-	- measurements.py
-	- rotate.py
-	- average.py
-	- histogram.py
-	- contour.py
-	- matrix_inversion.py
-	- quadrature.py
-	- simple_oscillator.py
-	- solve_ode.py
-	- parametric_oscillator.py
-	- ivp_comparison.py
-	- vortex.py
-	- gradient.py
-	- streamlines.py
+	- [measurements.py](#measurementspy)
+	- [rotate.py](#rotatepy)
+	- [average.py](#averagepy)
+	- [histogram.py](#histogrampy)
+	- [contour.py](#contourpy)
+	- [matrix_inversion.py](#matrix_inversionpy)
+	- [quadrature.py](#quadraturepy)
+	- [simple_oscillator.py](#simple_oscillatorpy)
+	- [solve_ode.py](#solve_odepy)
+	- [parametric_oscillator.py](#parametric_oscillatorpy)
+	- [ivp_comparison.py](#ivp_comparisonpy)
+	- [vortex.py](#vortexpy)
+	- [gradient.py](#gradientpy)
+	- [streamlines.py](#streamlinespy)
 
 * Chapter 8
 
-	- data_images.py
-	- walker.py
-	- html_movie.py
-	- waves.py
+	- [data_images.py](#data_imagespy)
+	- [walker.py](#walkerpy)
+	- [html_movie.py](#html_moviepy)
+	- [waves.py](#wavespy)
 
 * Chapter 9
 
-	- convolution.py
+	- [convolution.py](#convolutionpy)
 
 * Chapter 10
 
-	- sympy_examples.py
-	- first_passage.py
-	- data_dictionary.py
-	- nd_random_walks.py
+	- [sympy_examples.py](#sympy_examplespy)
+	- [first_passage.py](#first_passagepy)
+	- [data_dictionary.py](#data_dictionarypy)
+	- [nd_random_walks.py](#nd_random_walkspy)
 
 * Epilogue
 
-	- surprise.py
+	- [surprise.py](#surprisepy)
 
 * Appendix F
 
-	- scope.py
-	- name_collision.py
+	- [scope.py](#scopepy)
+	- [name_collision.py](#name_collisionpy)
 
 * Your Turn
 
-	- fancy_plot.py
-	- legend.py
-	- measurements.py
-	- random_walk.py
-	- surface.py
-	- regression.py
+	- [fancy_plot.py](#fancy_plotpy)
+	- [legend.py](#legendpy)
+	- [measurements.py](#measurementspy)
+	- [random_walk.py](#random_walkpy)
+	- [surface.py](#surfacepy)
+	- [regression.py](#regressionpy)
 
 * Additional
 
-	- bar3d.py
-	- perrin.py
-	- shading.py
+	- [bar3d.py](#bar3dpy)
+	- [perrin.py](#perrinpy)
+	- [shading.py](#shadingpy)
+
+------------------------------------------------------------------------- 
 
 DESCRIPTIONS
 ------------
@@ -470,3 +472,5 @@ LaTeX formatting of axis labels and grid lines.
 ### shading.py
 
 Demonstrate shading of surface plots using Matplotlib's LightSource.
+
+------------------------------------------------------------------------- 
