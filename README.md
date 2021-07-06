@@ -3,8 +3,9 @@ CODE SAMPLES
 
 ------------------------------------------------------------------------- 
 
-These are code fragments for _A Student's Guide to Python for Physical
-Modeling_ by Jesse M. Kinder and Philip Nelson.
+These are code fragments for [_A Student's Guide to Python for Physical
+Modeling_](https://www.amazon.com/Students-Guide-Python-Physical-Modeling/dp/0691223653)
+by Jesse M. Kinder and Philip Nelson.
 
 Use of these code fragments is subject to the terms of LICENSE.txt.
 
@@ -20,10 +21,10 @@ The order of appearance in the text is as follows.
 
 * Chapter 2
 
-	- string_format.py
-	- string_percent.py
-	- for_loop.py
-	- while_loop.py
+	- [string_format.py][#string_formatpy]
+	- [string_percent.py][#string_percentpy]
+	- [for_loop.py][#for_looppy]
+	- [while_loop.py][#while_looppy]
 
 * Chapter 3
 
