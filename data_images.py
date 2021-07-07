@@ -18,8 +18,8 @@ y = np.linspace(0,y_max,y_num)
 #%% Generate data to plot.
 # Assign function values to placeholder array.
 z = np.zeros((x_num,y_num))
-for i in range(M):
-	for j in range(N):
+for i in range(x_num):
+	for j in range(y_num):
 		z[i][j] = (x[i] - 2*y[j])**2
 
 # Use meshgrid to generate the same function values.
