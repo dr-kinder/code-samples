@@ -16,4 +16,5 @@ Vx, Vy = Y, -X
 # display streamlines defined by vector field
 plt.figure()
 plt.streamplot(coords, coords, Vx, Vy)
+plt.axis('square')
 plt.show()

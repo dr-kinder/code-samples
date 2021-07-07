@@ -6,7 +6,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 num_curves = 3
-x = np.linspace(0, 1, 51)
+x = np.linspace(0, 1, 201)
 y = np.zeros((x.size, num_curves))
 for n in range(num_curves):
 	y[:, n] = np.sin((n+1) * x * 2 * np.pi)

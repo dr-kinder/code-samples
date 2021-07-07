@@ -10,5 +10,7 @@ X, Y = np.meshgrid(coords, coords)
 Vx, Vy = Y, -X
 
 plt.figure()
-plt.quiver(X, Y, Vx, Vy)
+# pivot='mid' places centers of arrows on grid points
+plt.quiver(X, Y, Vx, Vy, pivot='mid')
+plt.axis('square')
 plt.show()

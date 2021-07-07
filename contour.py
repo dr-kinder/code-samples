@@ -6,8 +6,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 #%% Create a grid of x and y coordinates
-x_vals = np.linspace(-3, 3, 21)
-y_vals = np.linspace(0, 10, 11)
+x_vals = np.linspace(-3, 3, 201)
+y_vals = np.linspace(0, 10, 101)
 X, Y = np.meshgrid(x_vals, y_vals)
 
 #%% Generate function values. 

@@ -14,6 +14,7 @@ num_steps = 100
 bound = 20
 fig = plt.figure() 		# must have figure object for movie
 ax = plt.axes(xlim=(-bound, bound), ylim=(-bound, bound))
+ax.set_aspect('equal')  # equal scaling for x and y axes
 
 # Create a line and a point with no data.  They will be updated during each
 # frame of the animation.

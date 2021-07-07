@@ -2,6 +2,8 @@
 # -------------------------------------------------------------------------
 # Define a function to simulate first passage of a random walker.
 # ------------------------------------------------------------------------- 
+import numpy as np
+
 def first_passage(N, L, p=0.5, message=False):
 	"""
     Simulate a random walker that starts at the origin and takes steps to the

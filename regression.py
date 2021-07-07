@@ -2,7 +2,8 @@
 # -------------------------------------------------------------------------
 # Example of linear regression on data from first passage problem.
 # first_passage.py must be in the working directory.
-# This could take a while to finish if (samples x nmax) ~ 10**8 or more.
+# Increase samples and nmax for better statistics.  This script will take a
+# several minutes to finish if (samples x nmax) ~ 10**9 or more.
 # ------------------------------------------------------------------------- 
 import numpy as np
 import matplotlib.pyplot as plt
@@ -60,5 +61,7 @@ print("R2: ", model.score(X,Y))
 yFit = model.predict(np.log(xFit))
 plt.plot(xFit, np.exp(yFit), 'b-', label="Power Law Model")
 
+plt.xlabel("Target Distance")
+plt.ylabel("Average Steps")
 plt.legend()
-plt.show
+plt.show()
