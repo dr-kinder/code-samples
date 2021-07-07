@@ -45,7 +45,7 @@ ax[1,0].set_title("Loop: Transpose + Spatial Coordinates")
 ax[1,1].imshow(Z, origin="lower")
 ax[1,1].set_title("meshgrid: Spatial Coordinates")
 
-ax[1,2].pcolormesh(X, Y, Z)
+ax[1,2].pcolormesh(X, Y, Z, shading='auto')
 ax[1,2].axis('image')
 ax[1,2].set_title("pcolormesh")
 
