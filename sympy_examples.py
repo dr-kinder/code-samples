@@ -1,6 +1,7 @@
 # sympy_examples.py
 # -------------------------------------------------------------------------
 # Demonstrate some useful methods available in the SymPy module.
+# Run each command separately at an IPython command line.
 # ------------------------------------------------------------------------- 
 from sympy import *
 init_session()
